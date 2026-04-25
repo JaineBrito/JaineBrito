@@ -1,8 +1,8 @@
 <h1 align="center">✨ Hi, I'm <strong>Jaine</strong> ✨</h1>
 
 <p align="center">
-  <strong>.NET Developer</strong> focused on <strong>C#</strong> & <strong>ASP.NET Core</strong><br>
-  Passionate about clean code, elegant architecture, and high-quality software.<br>
+  <strong>.NET Developer (C#) | Backend & APIs | Scalable Systems</strong><br>
+  Focused on clean code, scalable architecture and high-quality software.<br>
   Currently specializing in <strong>AI applied to Software Test Engineering</strong> (UFAM).
 </p>
 
@@ -14,28 +14,29 @@
   <img src="https://img.shields.io/badge/ASP.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- .NET developer with experience in backend-focused solutions  
-- Obsessed with clean architecture, performance and clarity  
-- Passionate about understanding systems deeply  
-- Constant learner aiming to build reliable and scalable software  
+- .NET developer with experience in backend and API development  
+- Focused on clean architecture, performance and maintainability  
+- Strong interest in scalable and reliable systems  
+- Continuously improving in software design and engineering practices  
 
 ---
 
 ## 🧩 Tech Stack
 **Backend:** C#, .NET, ASP.NET Core, Entity Framework  
 **Frontend:** Angular, TypeScript, HTML, CSS  
-**Databases:** SQL Server, MySQL  
-**Practices:** Clean Architecture, REST APIs, Git, SOLID, Scrum  
+**Databases:** SQL Server, MySQL, Oracle  
+**Practices:** REST APIs, Clean Architecture, SOLID, Git, Scrum  
 
 ---
 
 ## 📚 Currently Learning
-- Clean Architecture & Design Patterns  
+- Clean Architecture and Design Patterns  
 - Automated testing in .NET  
 - AI applied to Software Engineering  
 - Backend performance and distributed systems  
