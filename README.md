@@ -2,8 +2,7 @@
 
 <p align="center">
   <strong>.NET Developer (C#) | Backend & APIs | Scalable Systems</strong><br>
-  Focused on clean code, scalable architecture and high-quality software.<br>
-  Currently specializing in <strong>AI applied to Software Test Engineering</strong> (UFAM).
+  Focused on clean code, scalable architecture and high-quality software.
 </p>
 
 ---
@@ -44,11 +43,11 @@
 ---
 
 ## 🎓 Education
-- **Master's in Defense Engineering — IME (2026–Present)**  
-- **Postgraduate in AI for Software Test Engineering — UFAM (2025–2026)**  
-- **Postgraduate in Software Engineering & Project Management — Faculdade Alphaville (2024)**  
-- **Technologist in Systems Analysis and Development — UNIP (2021)**  
-- **Technical Degree in Informatics — IFAM (2018)**  
+- **🎓 Master's in Defense Engineering** — IME (2026–Present)
+- **🧪 Postgraduate in AI for Software Test Engineering** — UFAM (2025–2026)  
+- **📊 Postgraduate in Software Engineering & Project Management** — Faculdade Alphaville (2024)  
+- **💻 Technologist in Systems Analysis and Development** — UNIP (2021)  
+- **🔌 Technical Degree in Informatics** — IFAM (2018)  
 
 ---
 
