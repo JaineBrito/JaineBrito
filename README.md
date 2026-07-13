@@ -44,6 +44,7 @@
 ---
 
 ## 🎓 Education
+- **Master's in Defense Engineering — IME (2026–Present)**  
 - **Postgraduate in AI for Software Test Engineering — UFAM (2025–2026)**  
 - **Postgraduate in Software Engineering & Project Management — Faculdade Alphaville (2024)**  
 - **Technologist in Systems Analysis and Development — UNIP (2021)**  
